@@ -30,7 +30,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 1. **Clonar el repositorio**:
 ```bash
-git clone https://github.com/juanramirez-tech/nagios-docker-monitoring.git
+git clone https://github.com/JuanGuardia10/nagios-docker-monitoring.git
 cd nagios-monitoring
 ```
 
@@ -193,4 +193,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## Autor
 
-Juan Ramirez - [GitHub](https://github.com/juanramirez-tech)
+Juan Guardia - [GitHub](https://github.com/JuanGuardia10)
