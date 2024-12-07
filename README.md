@@ -1,12 +1,13 @@
 # Monitoreo con Nagios usando Docker
 
 Sistema de monitoreo utilizando Nagios Core para supervisar servicios MySQL y NGINX en contenedores Docker.
+Nota: Todo esto se realizo directamente desde una MV con Ubuntu 24.04
 
 ## Requisitos
 
 - Docker
 - Docker Compose
-- Ubuntu (probado en Ubuntu 24.04)
+- Ubuntu
 
 ## Instalación de Requisitos Previos
 
